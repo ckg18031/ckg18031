@@ -1,0 +1,22 @@
+$ ls -l
+
+total 56
+-rw-r--r--   1 author  staff   519  1 20 20:07 Dockerfile
+-rw-r--r--   1 author  staff  2216  1 20 20:15 Gemfile
+-rw-r--r--   1 author  staff     0  1 20 20:08 Gemfile.lock
+-rw-r--r--   1 author  staff   374  1 20 20:15 README.md
+-rw-r--r--   1 author  staff   227  1 20 20:15 Rakefile
+drwxr-xr-x  10 author  staff   320  1 20 20:15 app
+drwxr-xr-x   8 author  staff   256  1 20 20:15 bin
+drwxr-xr-x  16 author  staff   512  1 20 20:15 config
+-rw-r--r--   1 author  staff   130  1 20 20:15 config.ru
+drwxr-xr-x   3 author  staff    96  1 20 20:15 db
+-rw-r--r--   1 author  staff   261  1 20 20:09 docker-compose.yml
+drwxr-xr-x   4 author  staff   128  1 20 20:15 lib
+drwxr-xr-x   3 author  staff    96  1 20 20:15 log
+-rw-r--r--   1 author  staff    67  1 20 20:15 package.json
+drwxr-xr-x   9 author  staff   288  1 20 20:15 public
+drwxr-xr-x   3 author  staff    96  1 20 20:15 storage
+drwxr-xr-x  11 author  staff   352  1 20 20:15 test
+drwxr-xr-x   5 author  staff   160  1 20 20:15 tmp
+drwxr-xr-x   3 author  staff    96  1 20 20:15 vendo
